@@ -1,0 +1,213 @@
+[901]
+NAME="Nothing"
+SETUP="export TERM=xterm ; PATH='/bin:/usr/bin'"
+CLEAN=""
+TESTS=
+  echo ''
+[901-END]
+
+[902]
+NAME="Exec two command"
+SETUP="export TERM=xterm ; PATH='/bin:/usr/bin'"
+CLEAN=""
+TESTS=
+  echo 'ls /etc'
+  echo 'cat /etc/resolv.conf'
+[902-END]
+
+[903]
+NAME="Testing with /usr/bin PATH"
+SETUP="export TERM=xterm ; PATH='/usr/bin'"
+CLEAN=""
+TESTS=
+  echo 'pwd'
+[903-END]
+
+[904]
+NAME="Testing with /bin PATH"
+SETUP="export TERM=xterm ; PATH='/bin'"
+CLEAN=""
+TESTS=
+  echo 'pwd'
+[904-END]
+
+[905]
+NAME="run commands"
+SETUP="export TERM=xterm ; PATH='/bin:/usr/bin'"
+CLEAN=""
+TESTS=
+  echo 'cat /etc/resolv.conf'
+  sleep 0.5
+  echo 'ls -l /etc'
+  sleep 0.5
+  echo 'pwd'
+[905-END]
+
+[906]
+NAME="setenv and unsetenv"
+SETUP="/usr/bin/env > .lstenv ; while read varenv ; do unset $varenv ; done < <(/bin/cat .lstenv | /usr/bin/cut -f1 -d=) ; export PATH=/bin:/usr/bin ; export _=ls ; export LS_COLORS=RID ; export MYBG=4 ; export LVL=4 ; export NOTE=2"
+CLEAN="while read varenv ; do export "$varenv" 2>/dev/null ; done  < <(/bin/cat .lstenv) ; /bin/rm -f .lstenv"
+TESTS=
+  echo 'unsetenv HOSTTYPE'
+  echo 'unsetenv VENDOR'
+  echo 'unsetenv OSTYPE'
+  echo 'unsetenv MACHTYPE'
+  echo 'unsetenv SHLVL'
+  echo 'unsetenv PWD'
+  echo 'unsetenv LOGNAME'
+  echo 'unsetenv USER'
+  echo 'unsetenv GROUP'
+  echo 'unsetenv HOST'
+  echo 'unsetenv REMOTEHOST'
+  echo 'unsetenv _'
+  echo 'unsetenv LS_COLORS'
+  echo 'unsetenv NOTE'
+  echo 'setenv titi'
+  echo 'setenv tata coucou'
+  echo 'env'
+  echo '/usr/bin/env'
+  echo 'setenv var1 val1'
+  echo 'setenv var2 val2'
+[906-END]
+
+[907]
+NAME="builtin cd"
+SETUP="export TERM=xterm ; PATH='/bin:/usr/bin'"
+CLEAN=""
+TESTS=
+  echo 'cd ..'
+  echo 'ls -l'
+  echo 'cd /usr'
+  echo 'ls -l'
+[907-END]
+
+[908]
+NAME="many tab and space"
+SETUP="export TERM=xterm ; PATH='/bin:/usr/bin'"
+CLEAN=""
+TESTS=
+  echo -e "\t\t    ls\t     \t-l    \t\t  \t -a /usr   \t\t"
+[908-END]
+
+[909]
+NAME="Testing simple pipe"
+SETUP="export TERM=xterm ; PATH='/bin:/usr/bin'"
+CLEAN=""
+TESTS=
+  echo "ls -l /etc | grep sh"
+[909-END]
+
+[910]
+NAME="simple redirection ?"
+SETUP=""
+CLEAN=""
+TESTS=
+  echo 'ls > data'
+  echo 'cat data'
+  echo 'ls < data'
+[910-END]
+
+[911]
+NAME="advanced redirection ?"
+SETUP=""
+CLEAN=""
+TESTS=
+  echo 'ls >> data'
+  echo 'cat data'
+  echo 'ls << data'
+[911-END]
+
+[912]
+NAME="A echo with a builtin ?"
+SETUP=""
+CLEAN=""
+TESTS=
+    echo 'ls'
+    echo 'echo $?'
+    echo 'lsq'
+    echo 'echo $?'
+    echo 'echo $PWD'
+    echo 'echo $?'
+    echo 'echo kdsqdqsdqs'
+    echo 'echo bonjour'
+    echo 'echo'
+[912-END]
+
+[913]
+NAME="Ihibitors command"
+SETUP=""
+CLEAN=""
+TESTS=
+    echo '\ls'
+[913-END]
+
+[914]
+NAME="double & ?"
+SETUP=""
+CLEAN=""
+TESTS=
+    echo 'ls && ls -la'
+[914-END]
+
+[915]
+NAME="aliases ?"
+SETUP=""
+CLEAN=""
+TESTS=
+    echo '42shconfig'
+[915-END]
+
+[916]
+NAME="A pipe with a builtin ?"
+SETUP="export VAR1=VALEUR1 ; OLDPATH=$PATH ; PATH='/random'"
+CLEAN="PATH=$OLDPATH"
+TESTS=
+  echo 'setenv | cat'
+  echo '/bin/ls | cd /usr'
+  echo 'ls -l'
+  echo 'exit 45|cat /etc/resolv.conf'
+[916-END]
+
+[917]
+NAME="A redirection with a builtin ?"
+SETUP="export VAR1=VALEUR1 ; OLDPATH=$PATH ; PATH='/random'"
+CLEAN="PATH=$OLDPATH"
+TESTS=
+  echo 'setenv > data'
+  echo 'cat data'
+[917-END]
+
+[918]
+NAME="A double pipe ?"
+SETUP=""
+CLEAN=""
+TESTS=
+  echo 'ls || ls'
+  echo 'dsqdsq || ls'
+  echo 'dsqdsqd || echo $PATH'
+  echo 'djoiqsjdoijqs || ls && ls'
+[918-END]
+
+[919]
+NAME="A pipe builtin after wrong command ?"
+SETUP="export VAR1=VALEUR1 ; OLDPATH=$PATH ; PATH='/random'"
+CLEAN="PATH=$OLDPATH"
+TESTS=
+  echo '/bin/env | cat -e'
+[919-END]
+
+[920]
+NAME="use direct command ls"
+SETUP=""
+CLEAN=""
+TESTS=
+  echo '/bin/ls'
+[920-END]
+
+[921]
+NAME="Subject test"
+SETUP=""
+CLEAN=""
+TESTS=
+  echo 'cd ; </etc/hosts od -c | grep xx | wc >> /tmp/z -l; cd - && echo OK'
+[921-END]

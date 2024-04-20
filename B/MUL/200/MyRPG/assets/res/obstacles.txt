@@ -1,0 +1,162 @@
+ TTTTT
+Tc    TT
+T      TT 
+T      TT
+TT    TTT   
+ TTT TT
+
+
+
+
+                                   TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+        TTTTTTTTTTTTTTTTTTTT TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+                      TTTTTT TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT   
+                        TTTT TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+    H          H         TTT TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+                             TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+T                                     TTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+T                                                      TTTTTTTTTTTT
+TT                                                     TTTTTTTTTTTT   
+TT                H        TT                          TTTTTTTTTTTT  
+ TT                      T TTTTTTTTTTTTTTTTTTTTTTTTT   TTTTTTTTTTTTTTTTTTTTTT
+  T    H                 T TTTTTTTTTTTTTTTTTTTTTTTTT   TTTTTTTTTTTTTTTTTTTTTTT
+                         T TTTTTTTTTTTTTTTTTTTTTTTTT   TTTTTTTTTTTTTTTTTTTTTTT
+                         T TTTTTTTTTTTTTTTTTTTTTTTTT   TTTTTTTTTTTTTTTTTTTTTTT
+                         T TTTTTTTTTTTTTTTTTTTTTTTT    TTTTTTTTTTTTTTTTTTTTTTT
+              H          T TTTTTTTTTTTTTTTTTTTTTTTT      TTTTTTTTTTTTTTTTTTTTT
+                           TTTTTTTTTTTTTTTTTTTTTTTT       h         TTTTTTTTTT
+                           TTTTTTTTTTTTTTTTTTTTTTTT                 TTTTTTTTTT
+                           TTTTTTTTTTTTTTTTTTTTTTTT                 TTTTTTTTTT
+                           TTTTTTTTTTTTTTTTTTTTTTTT       h         TTTTTTTTTT
+                           TTTTTTTTTTTTTTTTTTTTTTTT                 TTTTTTTTTTTT
+                           TTTTTTTTTTTTTTTTTTTTTTTT  h              TTTTTTTTTTTT
+                           TTTTTTTTTTTTTTTTTTTTTTTT                  TTTTTTTTTT
+    TTTT      TT           TTTTTTTTTTTTTTTTTTTTTTTT    a             TTTTTTTTTT
+    TTT       TTT          TTTTTTTTTTTTTTTTTTTTTTTT                  TTTTTTTTTT
+    TT         TT             TTTTTTTTTTTTTTTTTTTTT                  TTTTTTTTTT
+TT                  TTT       TTTTTTTTTTTTTTTTTTTTT                 TTTTTTTTTTT
+T                  TTTT        TTTTTTTTTTTTTTTTTTTTTT          TTTTTTTTTTTTTTTT  
+T                 TTTT         TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+T                 TTTT         TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+                               TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+           TTT                 TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+         TTT                   TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+                               TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+T                              TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+T                              TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+        TTT                    TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+         TTTTT                 TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+T                              TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+T                              TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+T                              TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+T                              TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+                               TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+                               TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+                               TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+                               TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+                               TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+                               TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+            TTT                TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+           TTTTT               TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+             TTTTT             TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+              TTTT             TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+               TT              TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+      TTTT                     TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+      TTTT                     TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+    TTTTT                      TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+      TT                       TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+                               TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+       i                       TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+      iii                      TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+      iiii                     TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+     iiiii                     iiiTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+       iii                     iiiiiiiTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+iii                            iiiiiiiiiiiiiiiiiiiiiTTTTTTTTTTTTTTTTTTTTTTTTT
+iii                            iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+ii                             iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+                               iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+                               iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+                               iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+        iiiiiii                iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+       iiiiiiiii               iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+       iiiiiiiii               iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+       iiiiiiii                iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+        iiiiiii    ii          iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+                 iiii          iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+                iiiii          iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+      H         iiii          iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+                iiii        iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+                            iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+H                          iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+                         iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+           iiii          iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+           iiii          iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+          iiii           iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+                         iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+i                         iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+i                          iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+iii                         iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+iii                         iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+                            iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+            iiii            iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+             iiii           iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+             iiiii          iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+             iiiii          iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+                            iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+                            iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+                    iiiii   iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+iii                iiiiii   iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+ii               iiiiii     iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+ii                iiii      iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+                            iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+                     iiii   iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+  iiiii               iiii  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+   iiiii              iiiii iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+    iiii               iii  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+    iiii                ii  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+    iiiiii                  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+     iiiii                   iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+                              iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+                              iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+ii                               iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+ii    iiiii                        iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+iiii   iiiiii                      iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+       iiiiii                      iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+                                    iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+      iii                             iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+      iiiiiiiii                         iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+    iiiiiiiiiiiiiii                      iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+     iiiiiiiii                            iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+  iiiiiiiii                               iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+     iiiiiiiiii                           iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+      iiiiiiii                            iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+    iiiiiiiiii                            iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+    iiiiiiiiiiiii                         iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+    iiiiiiiiiiiii                         iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+  iiiiiiiiiiiiiii                           iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+  iiiiiiiiiiiii                             iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+                                            iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+                                            iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+                                            iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+                                            iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+                                            iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+                                            iiiiiiiiiiiiiiii                                iiiiiiiiiiiiiiiiiiiiiiiiiiii
+                                            iiiiiiiiiiiiiii         E                          iiiiiiiiiiiiiiiiiiiiiiiii 
+                                             iiiiiiiiiiiii                                     iiiiiiiiiiiiiiiiiiiiiiiii
+                                             iiiiiiiiiiiii                                     iiiiiiiiiiiiiiiiiiiiiiiii
+                                 A              iiiiiiiiii                                     iiiiiiiiiiiiiiiiiiiiiiiii
+                      A                           iiiiiiii                                     iiiiiiiiiiiiiiiiiiiiiiiii
+                                                    iiiiii                                      iiiiiiiiiiiiiiiiiiiiiiii
+                            A                         iiii                                      iiiiiiiiiiiiiiiiiiiiiiii
+  iiii                                                                                          iiiiiiiiiiiiiiiiiiiiiiii
+ iiiii                                                                                          iiiiiiiiiiiiiiiiiiiiiiii
+iiiiiiii               A                                                                        iiiiiiiiiiiiiiiiiiiiiiii
+iiiiiiii                        A                                                               iiiiiiiiiiiiiiiiiiiiiiii
+iiii                                                                                            iiiiiiiiiiiiiiiiiiiiiiii
+iii                                                                                             iiiiiiiiiiiiiiiiiiiiiiii
+                                                                                                iiiiiiiiiiiiiiiiiiiiiiii
+                                                                                                iiiiiiiiiiiiiiiiiiiiiiii
+                                                                                               iiiiiiiiiiiiiiiiiiiiiiiii
+                                                                                               iiiiiiiiiiiiiiiiiiiiiiiii
+                                                                                               iiiiiiiiiiiiiiiiiiiiiiiii
+                                                                                               iiiiiiiiiiiiiiiiiiiiiiiii
