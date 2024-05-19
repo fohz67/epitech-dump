@@ -1,16 +1,16 @@
 # MyEpitech
 My entire EPITECH education here in one GitHub repository.
 
-## Attention students
+### Attention students
 Press CTRL + F to search the project you want.
 Beware EPITECH students... -42 will automatically be given to copiers.
 
-## Information
+### Information
 Projects are saved in the same way as at EPITECH, with everything organized within the "B" directory. This directory, in turn, contains all the modules, each of which houses projects separated by semester (100, 110, etc...).
 
-# Results
+## Results
 
-## Module CPE
+### `Module CPE`
 
 ### B-CPE-100
 | Projet             | Résultat |
@@ -32,14 +32,14 @@ Projects are saved in the same way as at EPITECH, with everything organized with
 | [Rush 1](https://github.com/Fohz67/MyEpitech/tree/main/B/CPE/100/Rush%201) | 100%      |
 | [Rush 2](https://github.com/Fohz67/MyEpitech/tree/main/B/CPE/100/Rush%202) | 75%      |
 | [Star](https://github.com/Fohz67/MyEpitech/tree/main/B/CPE/100/Star) | 100%      |
-### Final Grade : A
+ `Final Grade : A`
 
 ### B-CPE-101
 | Projet             | Résultat |
 |--------------------|----------|
 | [mini_printf](https://github.com/Fohz67/MyEpitech/tree/main/B/CPE/101/mini_printf) | 100%      |
 | [my_printf](https://github.com/Fohz67/MyEpitech/tree/main/B/CPE/101/my_printf) | 55%      |
-### Final Grade : B
+`Final Grade : B`
 
 ### B-CPE-110
 | Projet             | Résultat |
@@ -47,7 +47,7 @@ Projects are saved in the same way as at EPITECH, with everything organized with
 | [Antman](https://github.com/Fohz67/MyEpitech/tree/main/B/CPE/110/Antman) | 65%      |
 | [BSQ](https://github.com/Fohz67/MyEpitech/tree/main/B/CPE/110/BSQ) | 98%      |
 | [Pushswap](https://github.com/Fohz67/MyEpitech/tree/main/B/CPE/110/Pushswap) | 48%      |
-### Final Grade : A
+`Final Grade : A`
 
 ### B-CPE-200
 | Projet             | Résultat |
@@ -55,10 +55,10 @@ Projects are saved in the same way as at EPITECH, with everything organized with
 | [Corewar](https://github.com/Fohz67/MyEpitech/tree/main/B/CPE/200/Corewar) | CRASH      |
 | [DanteStar](https://github.com/Fohz67/MyEpitech/tree/main/B/CPE/200/DanteStar) | 62%      |
 | [Lem-In](https://github.com/Fohz67/MyEpitech/tree/main/B/CPE/200/Lem-In) | 71%      |
-### Final Grade : C
+`Final Grade : C`
 
 
-## Module MAT
+### `Module MAT`
 
 ### B-MAT-100
 | Projet             | Résultat |
@@ -68,7 +68,7 @@ Projects are saved in the same way as at EPITECH, with everything organized with
 | [103cipher](https://github.com/Fohz67/MyEpitech/tree/main/B/MAT/100/103cipher) | 48%      |
 | [104intersection](https://github.com/Fohz67/MyEpitech/tree/main/B/MAT/100/104intersection) | 70%      |
 | [105torus](https://github.com/Fohz67/MyEpitech/tree/main/B/CPE/MAT/105torus) | 71%      |
-### Final Grade : C
+`Final Grade : C`
 
 ### B-MAT-110
 | Projet             | Résultat |
@@ -78,4 +78,4 @@ Projects are saved in the same way as at EPITECH, with everything organized with
 | [108trigo](https://github.com/Fohz67/MyEpitech/tree/main/B/MAT/100/108trigo) | 100%      |
 | [109titration](https://github.com/Fohz67/MyEpitech/tree/main/B/MAT/100/109titration) | 70%      |
 | [110borwein](https://github.com/Fohz67/MyEpitech/tree/main/B/CPE/MAT/110borwein) | 100%      |
-### Final Grade : A
+`Final Grade : A`
