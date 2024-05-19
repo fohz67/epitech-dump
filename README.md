@@ -5,7 +5,9 @@
 
 ## 1st Year
 
-### Module CPE
+
+## Module CPE
+
 ### B-CPE-100
 | Projet             | Résultat |
 |--------------------|----------|
@@ -50,3 +52,26 @@
 | [DanteStar](https://github.com/Fohz67/MyEpitech/tree/main/B/CPE/200/DanteStar) | 62%      |
 | [Lem-In](https://github.com/Fohz67/MyEpitech/tree/main/B/CPE/200/Lem-In) | 71%      |
 ### Final Grade : C
+
+
+## Module MAT
+
+### B-MAT-100
+| Projet             | Résultat |
+|--------------------|----------|
+| [101pong](https://github.com/Fohz67/MyEpitech/tree/main/B/MAT/100/101pong) | 81%      |
+| [102architect](https://github.com/Fohz67/MyEpitech/tree/main/B/MAT/100/102architect) | 78%      |
+| [103cipher](https://github.com/Fohz67/MyEpitech/tree/main/B/MAT/100/103cipher) | 48%      |
+| [104intersection](https://github.com/Fohz67/MyEpitech/tree/main/B/MAT/100/104intersection) | 70%      |
+| [105torus](https://github.com/Fohz67/MyEpitech/tree/main/B/CPE/MAT/105torus) | 71%      |
+### Final Grade : C
+
+### B-MAT-200
+| Projet             | Résultat |
+|--------------------|----------|
+| [106bombyx](https://github.com/Fohz67/MyEpitech/tree/main/B/MAT/100/106bombyx) | 69%      |
+| [107transfer](https://github.com/Fohz67/MyEpitech/tree/main/B/MAT/100/107transfer) | 100%      |
+| [108trigo](https://github.com/Fohz67/MyEpitech/tree/main/B/MAT/100/108trigo) | 100%      |
+| [109titration](https://github.com/Fohz67/MyEpitech/tree/main/B/MAT/100/109titration) | 70%      |
+| [110borwein](https://github.com/Fohz67/MyEpitech/tree/main/B/CPE/MAT/110borwein) | 100%      |
+### Final Grade : A
