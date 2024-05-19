@@ -1,5 +1,8 @@
 # MyEpitech
 
+### Press CTRL + F to search the project you want.
+### Beware EPITECH students... -42 will automatically be given to copiers.
+
 ## 1st Year
 
 ### Module CPE
