@@ -10,8 +10,6 @@ Projects are saved in the same way as at EPITECH, with everything organized with
 
 ## Results
 
-### `Module CPE`
-
 ### B-CPE-100
 | Projet             | Résultat |
 |--------------------|----------|
@@ -32,7 +30,7 @@ Projects are saved in the same way as at EPITECH, with everything organized with
 | [Rush 1](https://github.com/Fohz67/MyEpitech/tree/main/B/CPE/100/Rush%201) | 100%      |
 | [Rush 2](https://github.com/Fohz67/MyEpitech/tree/main/B/CPE/100/Rush%202) | 75%      |
 | [Star](https://github.com/Fohz67/MyEpitech/tree/main/B/CPE/100/Star) | 100%      |
- `Final Grade : A`
+`Final Grade : A`
 
 ### B-CPE-101
 | Projet             | Résultat |
@@ -57,8 +55,6 @@ Projects are saved in the same way as at EPITECH, with everything organized with
 | [Lem-In](https://github.com/Fohz67/MyEpitech/tree/main/B/CPE/200/Lem-In) | 71%      |
 `Final Grade : C`
 
-
-### `Module MAT`
 
 ### B-MAT-100
 | Projet             | Résultat |
