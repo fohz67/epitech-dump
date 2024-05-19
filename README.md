@@ -1,10 +1,14 @@
 # MyEpitech
+My entire EPITECH education here in one GitHub repository.
 
-### Press CTRL + F to search the project you want.
-### Beware EPITECH students... -42 will automatically be given to copiers.
+## Attention students
+Press CTRL + F to search the project you want.
+Beware EPITECH students... -42 will automatically be given to copiers.
 
-## 1st Year
+## Information
+Projects are saved in the same way as at EPITECH, with everything organized within the "B" directory. This directory, in turn, contains all the modules, each of which houses projects separated by semester (100, 110, etc...).
 
+# Results
 
 ## Module CPE
 
@@ -66,7 +70,7 @@
 | [105torus](https://github.com/Fohz67/MyEpitech/tree/main/B/CPE/MAT/105torus) | 71%      |
 ### Final Grade : C
 
-### B-MAT-200
+### B-MAT-110
 | Projet             | Résultat |
 |--------------------|----------|
 | [106bombyx](https://github.com/Fohz67/MyEpitech/tree/main/B/MAT/100/106bombyx) | 69%      |
