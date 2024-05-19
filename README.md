@@ -2,8 +2,8 @@
 
 ## 1st Year
 
-### CPE
-### 100
+### Module CPE
+### B-CPE-100
 | Projet             | Résultat |
 |--------------------|----------|
 | [CPool Day 1](https://github.com/Fohz67/MyEpitech/tree/main/B/CPE/100/CPool%20Day%201) | 100%      |
@@ -25,14 +25,14 @@
 | [Star](https://github.com/Fohz67/MyEpitech/tree/main/B/CPE/100/Star) | 100%      |
 ### Final Grade : A
 
-### 101
+### B-CPE-101
 | Projet             | Résultat |
 |--------------------|----------|
 | [mini_printf](https://github.com/Fohz67/MyEpitech/tree/main/B/CPE/101/mini_printf) | 100%      |
 | [my_printf](https://github.com/Fohz67/MyEpitech/tree/main/B/CPE/101/my_printf) | 55%      |
 ### Final Grade : B
 
-### 110
+### B-CPE-110
 | Projet             | Résultat |
 |--------------------|----------|
 | [Antman](https://github.com/Fohz67/MyEpitech/tree/main/B/CPE/110/Antman) | 65%      |
@@ -40,7 +40,7 @@
 | [Pushswap](https://github.com/Fohz67/MyEpitech/tree/main/B/CPE/110/Pushswap) | 48%      |
 ### Final Grade : A
 
-### 200
+### B-CPE-200
 | Projet             | Résultat |
 |--------------------|----------|
 | [Corewar](https://github.com/Fohz67/MyEpitech/tree/main/B/CPE/200/Corewar) | CRASH      |
