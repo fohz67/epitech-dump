@@ -1,4 +1,4 @@
-# MyEpitech
+# Epitech Dump
 My entire EPITECH education here in one GitHub repository.
 
 ### Attention students
